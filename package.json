@@ -28,6 +28,7 @@
     "dotenv": "^16.0.3",
     "events": "3.3.0",
     "html-webpack-plugin": "5.5.0",
+    "ic-mops": "^0.14.0",
     "process": "0.11.10",
     "stream-browserify": "3.0.0",
     "terser-webpack-plugin": "^5.3.3",
